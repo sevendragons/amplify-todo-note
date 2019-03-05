@@ -9,6 +9,9 @@
 amplify
 src/aws-exports.js
 .amplifyrc
+.graphqlconfig.yml
+
+
 
 # testing
 /coverage
