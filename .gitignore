@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# Amplify
+amplify
+src/aws-exports.js
+.amplifyrc
+
 # testing
 /coverage
 
