@@ -1,6 +1,16 @@
 
 ## Video 
 
+
+#### `
+amplify configure
+amplify init
+amplify add api
+amplify console
+amplify push
+amplify auth update`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
